@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+.banner{
+    height: 20%;
+}
+#id{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    background-image: url(./image/her0o.jpg);
+}
